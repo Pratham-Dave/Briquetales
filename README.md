@@ -12,7 +12,7 @@ A new Flutter project.
 - Open Xcode:
    Launch Xcode and make sure to open it at least once to accept any license agreements and complete the initial setup.
 
--Configure Flutter for iOS:
+- Configure Flutter for iOS:
    Open Terminal and navigate to your Flutter project's root directory. Run the following command to create the necessary files for iOS:
 
    ```bash
